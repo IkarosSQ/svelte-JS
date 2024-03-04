@@ -26,6 +26,7 @@
         padding: 20px;
         border: 1px solid #000;
         background-color: #240707;
+        color : #ffffff;
         border-radius: 10px;
         margin-left: auto;
         margin-right: auto;
