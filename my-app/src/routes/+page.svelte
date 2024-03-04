@@ -1,3 +1,4 @@
+<!--Localhost:5173-->
 <script>
     let temperature = '';
     let timer = '';
@@ -37,6 +38,8 @@
         margin-bottom: 10px;
         color: #ffffff;
         background: #000000;
+        border-radius: 10px;
+        text-align: center;
     }
 
     #oven button {
