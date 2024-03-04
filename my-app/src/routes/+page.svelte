@@ -43,6 +43,7 @@
         margin-left: 125px;
         background: #000000;
         color: #ff0000;
+        border-radius: 10px;
     }
 
     .top {
