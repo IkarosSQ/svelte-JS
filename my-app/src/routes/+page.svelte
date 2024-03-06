@@ -1,4 +1,5 @@
-<!--Localhost:5173-->
+<!--start med å åpne powershell terminal så skriv cd .\my-app\-->
+<!--så skriv "npm run dev" i samme terminal-->
 <script>
     let temperature = '';
     let timer = '';
